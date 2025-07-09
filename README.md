@@ -1,6 +1,6 @@
 ## Hi, I'm Ritesh Gupta 😀👋
 
-    🐧About_Me: {
+    🪪About_Me: {
                     WebDeveloper      : [ true, "Forever-Learner 💻" ],             
                     Finance           : [ true, "Passive-Investor 🤑" ],              
                     Web3              : [ true, "Enthusiast! 💪" ],              
